@@ -1,0 +1,15 @@
+D:\Bookstore\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\Bookstore\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Bookstore\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Bookstore\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\Bookstore\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\Bookstore\BusinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\Bookstore\BusinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\Bookstore\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+D:\Bookstore\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bookstore\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Bookstore\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\Bookstore\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Bookstore\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+D:\Bookstore\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Bookstore\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
