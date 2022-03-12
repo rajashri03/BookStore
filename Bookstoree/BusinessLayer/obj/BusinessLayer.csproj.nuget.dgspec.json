@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bookstore\\BusinessLayer\\BusinessLayer.csproj": {}
+    "D:\\BookStore\\Bookstoree\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "D:\\Bookstore\\BusinessLayer\\BusinessLayer.csproj": {
+    "D:\\BookStore\\Bookstoree\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bookstore\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "D:\\BookStore\\Bookstoree\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "D:\\Bookstore\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "D:\\BookStore\\Bookstoree\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Bookstore\\BusinessLayer\\obj\\",
+        "outputPath": "D:\\BookStore\\Bookstoree\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Bookstore\\CommonLayer\\CommonLayer.csproj": {
-                "projectPath": "D:\\Bookstore\\CommonLayer\\CommonLayer.csproj"
+              "D:\\BookStore\\Bookstoree\\CommonLayer\\CommonLayer.csproj": {
+                "projectPath": "D:\\BookStore\\Bookstoree\\CommonLayer\\CommonLayer.csproj"
               },
-              "D:\\Bookstore\\RepositoryLayer\\RepositoryLayer.csproj": {
-                "projectPath": "D:\\Bookstore\\RepositoryLayer\\RepositoryLayer.csproj"
+              "D:\\BookStore\\Bookstoree\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "D:\\BookStore\\Bookstoree\\RepositoryLayer\\RepositoryLayer.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Bookstore\\CommonLayer\\CommonLayer.csproj": {
+    "D:\\BookStore\\Bookstoree\\CommonLayer\\CommonLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bookstore\\CommonLayer\\CommonLayer.csproj",
+        "projectUniqueName": "D:\\BookStore\\Bookstoree\\CommonLayer\\CommonLayer.csproj",
         "projectName": "CommonLayer",
-        "projectPath": "D:\\Bookstore\\CommonLayer\\CommonLayer.csproj",
+        "projectPath": "D:\\BookStore\\Bookstoree\\CommonLayer\\CommonLayer.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Bookstore\\CommonLayer\\obj\\",
+        "outputPath": "D:\\BookStore\\Bookstoree\\CommonLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -129,14 +129,14 @@
         }
       }
     },
-    "D:\\Bookstore\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "D:\\BookStore\\Bookstoree\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bookstore\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "D:\\BookStore\\Bookstoree\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "D:\\Bookstore\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "D:\\BookStore\\Bookstoree\\RepositoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Bookstore\\RepositoryLayer\\obj\\",
+        "outputPath": "D:\\BookStore\\Bookstoree\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,8 +153,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Bookstore\\CommonLayer\\CommonLayer.csproj": {
-                "projectPath": "D:\\Bookstore\\CommonLayer\\CommonLayer.csproj"
+              "D:\\BookStore\\Bookstoree\\CommonLayer\\CommonLayer.csproj": {
+                "projectPath": "D:\\BookStore\\Bookstoree\\CommonLayer\\CommonLayer.csproj"
               }
             }
           }

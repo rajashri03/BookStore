@@ -42,10 +42,22 @@ namespace Bookstore
             });
 
             services.AddTransient<IUserRL, UserRL>();
-            services.AddTransient<IBookRL, BookRL>();
-
-            services.AddTransient<IBookBL, BookBL>();
             services.AddTransient<IUserBL, UserBL>();
+
+            services.AddTransient<IBookRL, BookRL>();
+            services.AddTransient<IBookBL, BookBL>();
+
+            services.AddTransient<ICartRL, CartRL>();
+            services.AddTransient<ICartBL, CartBL>();
+            services.AddTransient<IAddressRL, AddressRL>();
+            services.AddTransient<IAddressBL, AddressBL>();
+            services.AddTransient<IOrderRL, OrderRL>();
+            services.AddTransient<IOrderBL, OrderBL>();
+            services.AddTransient<IwishListRL, WishListRL>();
+            services.AddTransient<IwishlistBL, WishListBL>();
+            services.AddTransient<IFeedbackRL,FeedbackRL>();
+            services.AddTransient<IFeedbackBL, FeedbackBL>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Welcome to Bookstore" });

@@ -41,11 +41,11 @@ namespace Bookstore.Controllers
             }
         }
         [HttpPut("Update")]
-        public IActionResult UpdateBooks(BookModel books)
+        public IActionResult UpdateBooks(BookModel books, long bookid)
         {
             try
             {
-                var reg = this.bookBL.UpdateBook(books);
+                var reg = this.bookBL.UpdateBook(books,bookid);
                 if (reg != null)
 
                 {
@@ -61,6 +61,71 @@ namespace Bookstore.Controllers
                 return this.BadRequest(new { Success = false, message = ex.Message });
             }
         }
+        [HttpDelete("Delete")]
+        public IActionResult DeleteBooks(long bookid)
+        {
+            try
+            {
+                var reg = this.bookBL.DeleteBook(bookid);
+                if (reg != null)
 
-    }
+                {
+                    return this.Ok(new { Success = true, message = "Book Deleted Sucessfull", Response = reg });
+                }
+                else
+                {
+                    return this.BadRequest(new { Success = false, message = "Unable to delete" });
+                }
+            }
+            catch (Exception ex)
+            {
+                return this.BadRequest(new { Success = false, message = ex.Message });
+            }
+        }
+        [HttpGet("Get")]
+        public IActionResult GetAllNotes()
+        {
+            try
+            {
+                var reg = this.bookBL.GetAllNotes();
+                if (reg != null)
+
+                {
+                    return this.Ok(new { Success = true, message = "All Book Details", Response = reg });
+                }
+                else
+                {
+                    return this.BadRequest(new { Success = false, message = "Unable to get details" });
+                }
+            }
+            catch (Exception ex)
+            {
+                return this.BadRequest(new { Success = false, message = ex.Message });
+            }
+        }
+
+
+        [HttpGet]
+        public IActionResult RetriveBookDetails(long bookid)
+        {
+            try
+            {
+                var reg = this.bookBL.RetriveBookDetails(bookid);
+                if (reg != null)
+
+                {
+                    return this.Ok(new { Success = true, message = "Book Details", Response = reg });
+                }
+                else
+                {
+                    return this.BadRequest(new { Success = false, message = "Unable to get details" });
+                }
+            }
+            catch (Exception ex)
+            {
+                return this.BadRequest(new { Success = false, message = ex.Message });
+            }
+        }
+           }
+
 }

@@ -6143,11 +6143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bookstore\\Bookstore\\Bookstore.csproj",
+      "projectUniqueName": "D:\\BookStore\\Bookstoree\\Bookstore\\Bookstore.csproj",
       "projectName": "Bookstore",
-      "projectPath": "D:\\Bookstore\\Bookstore\\Bookstore.csproj",
+      "projectPath": "D:\\BookStore\\Bookstoree\\Bookstore\\Bookstore.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Bookstore\\Bookstore\\obj\\",
+      "outputPath": "D:\\BookStore\\Bookstoree\\Bookstore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6164,11 +6164,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Bookstore\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "D:\\Bookstore\\BusinessLayer\\BusinessLayer.csproj"
+            "D:\\BookStore\\Bookstoree\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "D:\\BookStore\\Bookstoree\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "D:\\Bookstore\\RepositoryLayer\\RepositoryLayer.csproj": {
-              "projectPath": "D:\\Bookstore\\RepositoryLayer\\RepositoryLayer.csproj"
+            "D:\\BookStore\\Bookstoree\\RepositoryLayer\\RepositoryLayer.csproj": {
+              "projectPath": "D:\\BookStore\\Bookstoree\\RepositoryLayer\\RepositoryLayer.csproj"
             }
           }
         }

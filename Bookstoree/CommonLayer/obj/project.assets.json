@@ -320,11 +320,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Bookstore\\CommonLayer\\CommonLayer.csproj",
+      "projectUniqueName": "D:\\BookStore\\Bookstoree\\CommonLayer\\CommonLayer.csproj",
       "projectName": "CommonLayer",
-      "projectPath": "D:\\Bookstore\\CommonLayer\\CommonLayer.csproj",
+      "projectPath": "D:\\BookStore\\Bookstoree\\CommonLayer\\CommonLayer.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Bookstore\\CommonLayer\\obj\\",
+      "outputPath": "D:\\BookStore\\Bookstoree\\CommonLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

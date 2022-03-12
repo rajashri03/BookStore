@@ -8,3 +8,13 @@ D:\Bookstore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
 D:\Bookstore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
 D:\Bookstore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
 D:\Bookstore\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\BookStore\Bookstoree\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+D:\BookStore\Bookstoree\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\BookStore\Bookstoree\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\BookStore\Bookstoree\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.AssemblyReference.cache
+D:\BookStore\Bookstoree\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookStore\Bookstoree\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+D:\BookStore\Bookstoree\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+D:\BookStore\Bookstoree\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+D:\BookStore\Bookstoree\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+D:\BookStore\Bookstoree\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb

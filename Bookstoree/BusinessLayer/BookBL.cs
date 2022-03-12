@@ -27,11 +27,11 @@ namespace BusinessLayer
                 throw;
             }
         }
-        public BookModel UpdateBook(BookModel book)
+        public BookModel UpdateBook(BookModel book,long bookid)
         {
             try
             {
-                return this.bookrl.UpdateBook(book);
+                return this.bookrl.UpdateBook(book,bookid);
             }
             catch (Exception)
             {
@@ -39,5 +39,42 @@ namespace BusinessLayer
                 throw;
             }
         }
+        public bool DeleteBook(long bookid)
+        {
+            try
+            {
+                return this.bookrl.DeleteBook(bookid);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        public object RetriveBookDetails(long bookid)
+        {
+            try
+            {
+                return this.bookrl.RetriveBookDetails(bookid);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        public List<BookModel> GetAllNotes()
+        {
+            try
+            {
+                return this.bookrl.GetAllNotes();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+       
     }
 }
